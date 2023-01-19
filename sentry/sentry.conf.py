@@ -281,5 +281,5 @@ GEOIP_PATH_MMDB = '/geoip/GeoLite2-City.mmdb'
 # BITBUCKET_CONSUMER_KEY = 'YOUR_BITBUCKET_CONSUMER_KEY'
 # BITBUCKET_CONSUMER_SECRET = 'YOUR_BITBUCKET_CONSUMER_SECRET'
 
-# Turning off sending data to sentry https://develop.sentry.dev/config/
+# Turning off sending data to sentry developers https://develop.sentry.dev/config/
 SENTRY_BEACON=False
